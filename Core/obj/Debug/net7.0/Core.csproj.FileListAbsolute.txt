@@ -1,0 +1,14 @@
+C:\Users\joaob\OneDrive\Área de Trabalho\MyCode\ConcertAgenda\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\joaob\OneDrive\Área de Trabalho\MyCode\ConcertAgenda\Core\bin\Debug\net7.0\Core.runtimeconfig.json
+C:\Users\joaob\OneDrive\Área de Trabalho\MyCode\ConcertAgenda\Core\bin\Debug\net7.0\Core.dll
+C:\Users\joaob\OneDrive\Área de Trabalho\MyCode\ConcertAgenda\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\joaob\OneDrive\Área de Trabalho\MyCode\ConcertAgenda\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\joaob\OneDrive\Área de Trabalho\MyCode\ConcertAgenda\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaob\OneDrive\Área de Trabalho\MyCode\ConcertAgenda\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\joaob\OneDrive\Área de Trabalho\MyCode\ConcertAgenda\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\joaob\OneDrive\Área de Trabalho\MyCode\ConcertAgenda\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\joaob\OneDrive\Área de Trabalho\MyCode\ConcertAgenda\Core\obj\Debug\net7.0\Core.dll
+C:\Users\joaob\OneDrive\Área de Trabalho\MyCode\ConcertAgenda\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\joaob\OneDrive\Área de Trabalho\MyCode\ConcertAgenda\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\joaob\OneDrive\Área de Trabalho\MyCode\ConcertAgenda\Core\obj\Debug\net7.0\Core.genruntimeconfig.cache
+C:\Users\joaob\OneDrive\Área de Trabalho\MyCode\ConcertAgenda\Core\obj\Debug\net7.0\ref\Core.dll
